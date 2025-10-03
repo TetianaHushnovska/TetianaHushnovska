@@ -2,8 +2,6 @@
   
 
 **Hi there, I'm Tetiana Hushnovska 👩‍💻**  
-  
-
 <br/>  
 
 - 🔭 Working on a lot of interesting stuff  
@@ -35,22 +33,3 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
