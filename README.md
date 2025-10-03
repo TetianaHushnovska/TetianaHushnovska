@@ -1,4 +1,4 @@
-## This «thing» is under construction... 👨‍🎨  
+## Still loading this "thing"... 👨‍🎨  
   
 
 **Hi there, I'm Tetiana Hushnovska 👩‍💻**  
