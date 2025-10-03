@@ -1,4 +1,4 @@
-## Still loading this "thing"... 👨‍🎨  
+## Still loading this "thing"...⏳  
   
 
 **Hi there, I'm Tetiana Hushnovska 👩‍💻**  
@@ -37,9 +37,7 @@
 
 <br/>  
 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetianahushnovska&hide_border=true&layout=compact" align="left" />  
+  
 
 <br/>  
 
